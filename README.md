@@ -1,4 +1,4 @@
-# PKU Fighter
+# PKU Fighter(P大霸王)
 
 ChenBing Python class group project, using Python & Pygame
 
